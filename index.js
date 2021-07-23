@@ -125,7 +125,7 @@ const listUser = [
     "MUTUALANDFESS",
     "MUTUALANDFESS1",
     'menfesssyg', 
-    'subtanyarl2', 
+    'bertanyarl', 
     'sygfess',
     'spongebobmnfess',
     'bacotfess',
